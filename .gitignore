@@ -1,0 +1,11 @@
+# Clones usados como referência
+/MASPY/
+/MASPY.wiki/
+
+# Ambiente virtual
+/venv/
+
+# Logs e arquivos temporários do Python
+/logs/
+__pycache__/
+*.pyc
