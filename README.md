@@ -1,4 +1,4 @@
-﻿# Projeto Inicial — MASPY
+# Projeto Inicial — MASPY
 
 Simulação de agentes Walker competindo por dois targets com valores diferentes.
 
@@ -45,6 +45,5 @@ Na raiz do projeto, execute:
 
 Ou abra `trabalho/Walker_Main.py` no VS Code e clique no botão **▶ Run Python File**, com o interpretador do `venv` selecionado.
 
-
-
+Clique em **Start Simulation** e aguarde o treinamento inicial dos agentes.
 
